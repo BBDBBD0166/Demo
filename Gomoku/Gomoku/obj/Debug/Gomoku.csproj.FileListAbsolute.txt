@@ -1,0 +1,10 @@
+d:\桌面\Desktop\cs-289\Gomoku\Gomoku\bin\Debug\Gomoku.exe.config
+d:\桌面\Desktop\cs-289\Gomoku\Gomoku\bin\Debug\Gomoku.exe
+d:\桌面\Desktop\cs-289\Gomoku\Gomoku\bin\Debug\Gomoku.pdb
+d:\桌面\Desktop\cs-289\Gomoku\Gomoku\obj\Debug\Gomoku.csprojResolveAssemblyReference.cache
+d:\桌面\Desktop\cs-289\Gomoku\Gomoku\obj\Debug\Gomoku.Gomoku.resources
+d:\桌面\Desktop\cs-289\Gomoku\Gomoku\obj\Debug\Gomoku.Properties.Resources.resources
+d:\桌面\Desktop\cs-289\Gomoku\Gomoku\obj\Debug\Gomoku.csproj.GenerateResource.Cache
+d:\桌面\Desktop\cs-289\Gomoku\Gomoku\obj\Debug\Gomoku.csproj.CoreCompileInputs.cache
+d:\桌面\Desktop\cs-289\Gomoku\Gomoku\obj\Debug\Gomoku.exe
+d:\桌面\Desktop\cs-289\Gomoku\Gomoku\obj\Debug\Gomoku.pdb
